@@ -1,0 +1,7 @@
+*.swp
+
+c++/*.o
+
+generation_*.txt
+initial.txt
+
