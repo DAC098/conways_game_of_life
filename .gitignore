@@ -3,5 +3,8 @@
 c++/*.o
 
 generation_*.txt
+rust_generation_*.txt
 initial.txt
+rust_initial.txt
 
+rust/target
