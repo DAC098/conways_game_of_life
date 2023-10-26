@@ -1,10 +1,11 @@
 *.swp
 
-c++/*.o
+cpp/*.o
 
-generation_*.txt
-rust_generation_*.txt
+rust/target
+
 initial.txt
 rust_initial.txt
 
-rust/target
+generation_*.txt
+rust_generation_*.txt
